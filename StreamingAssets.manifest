@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 876706926
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: fonts/bounds.assetbundle
+      Dependencies: {}
+    Info_1:
+      Name: prefab/plane.assetbundle
+      Dependencies:
+        Dependency_0: dependassets/materials/floormat.mat.assetbundle
+    Info_2:
+      Name: dependassets/materials/floormat.mat.assetbundle
+      Dependencies:
+        Dependency_0: dependassets/textures/floor.jpg.assetbundle
+    Info_3:
+      Name: dependassets/textures/floor.jpg.assetbundle
+      Dependencies: {}
